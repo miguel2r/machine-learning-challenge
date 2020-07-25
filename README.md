@@ -5,16 +5,21 @@ Nasa’s exoplanet exploration program let us observe objects outside of our sol
 
 This exercise follows 3 Machine Learning Models: Logistic Regression, Decision Tree and Random Forest, all of them are well known for classification purposes.
 The next diagram follows the steps taken within each process:
+
 1.-Data Engineering
 2.-Train Model 
 3.-Test Model 
 4.-Get conclusions.
 
 After running the tree models, we found the following results:
-Model	Score	Comments
+
+
+
 Logistic Regression	0.83	On test data
 Decision Tree	0.89	On test data
 Random Forest	0.92	On test data
+
+
 
 Random Forest:
 Is a supervised learning algorithm, it has been used for Classification in a regression problem. This algorithm creates decision trees a get a prediction for each of them. Finally selects the best solution by means of voting. As we observed in the table above Random Forest performed better than the other models. With 0.92 %  on score, Random Forest was the best ML model to predict if the KOI is CONFIRME as a exoplanet of it remains as FALSE POSITIVE.
