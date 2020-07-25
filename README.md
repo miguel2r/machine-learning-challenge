@@ -15,8 +15,8 @@ After running the tree models, we found the following results:
 
 
 
-Logistic Regression	0.83	On test data
-Decision Tree	0.89	On test data
+Logistic Regression	0.83	On test data,
+Decision Tree	0.89	On test data,
 Random Forest	0.92	On test data
 
 
